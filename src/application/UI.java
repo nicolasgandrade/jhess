@@ -33,6 +33,14 @@ public class UI {
 
     //---------------------------------------------------------------
 
+    // Code copied from stackOverflow:
+
+    public static void clearScreen() {
+        System.out.println("\033[H\033[2J");
+    }
+
+    //---------------------------------------------------------------
+
     public static ChessPosition readChessPosition(Scanner sc) {
         try {
             String s = sc.nextLine();
