@@ -1,7 +1,5 @@
 <h1 align="center">:chess_pawn: Jhess :chess_pawn:</h1>
 
-<hr>
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg">
 
 
